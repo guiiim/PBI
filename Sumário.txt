@@ -6,3 +6,4 @@ Análise de Gastos de Operadoras de Plano de Saúde - Executado para curso da Da
 Controle Acessos Google Analytics - Executado para curso da Data Science Academy
 DW Vendas com PostgreSQL - Executado para curso da Data Science Academy
 Dashboard RH com Python - Executado para curso da Data Science Academy
+Desafio Dataside - Desafio proposto pela Dataside para avaliação de proeficiência
